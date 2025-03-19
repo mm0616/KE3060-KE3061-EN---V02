@@ -24,14 +24,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 ...
-html_theme = "sphinx_book_theme"
-#html_static_path = ['_static']
+html_theme = 'sphinx_rtd_theme'
+html_static_path = ['_static']
 
-html_theme_options = {
-    "repository_url": "https://github.com/mm0616/KE3060-KE3061-EN---V02.git",
-    "use_repository_button": True,
-}
 
-html_logo = "path/to/myimage.png"
-
-html_title = "My site title"
