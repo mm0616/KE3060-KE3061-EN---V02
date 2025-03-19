@@ -31,3 +31,7 @@ html_theme_options = {
     "repository_url": "https://github.com/mm0616/KE3060-KE3061-EN---V02.git",
     "use_repository_button": True,
 }
+
+html_logo = "path/to/myimage.png"
+
+html_title = "My site title"
