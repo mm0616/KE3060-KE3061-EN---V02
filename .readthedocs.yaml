@@ -21,6 +21,4 @@ python:
     install:
     - requirements: requirements.txt
 
-
-   docs/Get-started-with-Arduino
         
