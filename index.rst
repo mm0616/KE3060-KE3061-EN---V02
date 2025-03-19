@@ -1,7 +1,6 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:KE3060 (KE3061)英文--V02
 
 
    docs/Get-started-with-Arduino
